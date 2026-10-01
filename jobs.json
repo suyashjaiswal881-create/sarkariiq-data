@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Combined Graduate Level (CGL)",
+    "organisation": "Staff Selection Commission",
+    "qualification": "Graduate",
+    "category": "SSC",
+    "officialUrl": "https://ssc.gov.in",
+    "about": "Recruitment for Group B and Group C posts in central government ministries and departments."
+  },
+  {
+    "title": "Combined Higher Secondary Level (CHSL)",
+    "organisation": "Staff Selection Commission",
+    "qualification": "12th Pass",
+    "category": "SSC",
+    "officialUrl": "https://ssc.gov.in",
+    "about": "Recruitment for posts like Lower Division Clerk, Junior Secretariat Assistant and Data Entry Operator."
+  },
+  {
+    "title": "Non-Technical Popular Categories (NTPC)",
+    "organisation": "Railway Recruitment Boards",
+    "qualification": "12th / Graduate",
+    "category": "Railway",
+    "officialUrl": "https://indianrailways.gov.in",
+    "about": "Recruitment for non-technical posts in Indian Railways such as clerks, station masters and goods guards."
+  },
+  {
+    "title": "Probationary Officer (PO)",
+    "organisation": "IBPS",
+    "qualification": "Graduate",
+    "category": "Banking",
+    "officialUrl": "https://www.ibps.in",
+    "about": "Recruitment of Probationary Officers in participating public sector banks."
+  },
+  {
+    "title": "Civil Services Examination",
+    "organisation": "UPSC",
+    "qualification": "Graduate",
+    "category": "UPSC",
+    "officialUrl": "https://upsc.gov.in",
+    "about": "Exam for IAS, IPS, IFS and other All India and Central Services."
+  }
+]
