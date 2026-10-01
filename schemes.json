@@ -1,0 +1,156 @@
+[
+  {
+    "icon": "🌾",
+    "name": "PM Kisan Samman Nidhi",
+    "category": "Agriculture",
+    "shortInfo": "₹6,000 per year income support for landholding farmer families.",
+    "about": "PM-KISAN is a central government scheme that gives income support to landholding farmer families, paid directly into their bank accounts.",
+    "benefits": [
+      "₹6,000 per year per eligible farmer family",
+      "Paid in three equal instalments of ₹2,000",
+      "Money sent directly to the bank account (DBT)"
+    ],
+    "eligibility": [
+      "Landholding farmer families with cultivable land in their name",
+      "Income tax payers are not eligible",
+      "Institutional landholders, constitutional post holders and certain professionals/pensioners are excluded",
+      "eKYC is mandatory"
+    ],
+    "documents": [
+      "Aadhaar card",
+      "Land ownership records",
+      "Bank account linked with Aadhaar",
+      "Mobile number"
+    ],
+    "howToApply": [
+      "Visit the official PM-KISAN website",
+      "Go to Farmers Corner → New Farmer Registration",
+      "Enter Aadhaar, land and bank details",
+      "Complete eKYC (OTP or biometric)",
+      "Or apply through a Common Service Centre (CSC)"
+    ],
+    "officialWebsite": "https://pmkisan.gov.in",
+    "lastUpdated": "Please verify on the official website"
+  },
+  {
+    "icon": "🏥",
+    "name": "Ayushman Bharat PM-JAY",
+    "category": "Health",
+    "shortInfo": "Health cover up to ₹5 lakh per family per year for hospital treatment.",
+    "about": "Ayushman Bharat Pradhan Mantri Jan Arogya Yojana (PM-JAY) provides free, cashless hospital treatment at empanelled government and private hospitals.",
+    "benefits": [
+      "Health cover up to ₹5 lakh per family per year",
+      "Cashless treatment at empanelled hospitals",
+      "Covers secondary and tertiary hospitalisation"
+    ],
+    "eligibility": [
+      "Poor and vulnerable families as per SECC-2011 criteria",
+      "Senior citizens aged 70+ are eligible regardless of income (Ayushman Vay Vandana card)",
+      "Check your eligibility on the official beneficiary portal"
+    ],
+    "documents": [
+      "Aadhaar card",
+      "Ration card / family ID",
+      "Mobile number"
+    ],
+    "howToApply": [
+      "Check eligibility on the official portal or Ayushman app",
+      "Complete eKYC using Aadhaar",
+      "Get your Ayushman card from a CSC, empanelled hospital or the app",
+      "Show the card at an empanelled hospital for cashless treatment"
+    ],
+    "officialWebsite": "https://pmjay.gov.in",
+    "lastUpdated": "Please verify on the official website"
+  },
+  {
+    "icon": "👧",
+    "name": "Sukanya Samriddhi Yojana",
+    "category": "Girl Child / Savings",
+    "shortInfo": "Small savings scheme for the future of a girl child.",
+    "about": "Sukanya Samriddhi Yojana is a government-backed savings account for a girl child, meant for her education and marriage expenses.",
+    "benefits": [
+      "Attractive interest rate, set by the government every quarter",
+      "Tax benefit under Section 80C (old tax regime); maturity amount is tax-free",
+      "Partial withdrawal allowed for higher education after the girl turns 18"
+    ],
+    "eligibility": [
+      "Girl child below 10 years of age",
+      "Account opened by parent or legal guardian",
+      "Maximum two accounts per family (exception for twins/triplets)",
+      "Deposit: minimum ₹250, maximum ₹1.5 lakh per year"
+    ],
+    "documents": [
+      "Birth certificate of the girl child",
+      "Aadhaar and PAN of parent/guardian",
+      "Address proof",
+      "Passport-size photographs"
+    ],
+    "howToApply": [
+      "Visit a post office or authorised bank",
+      "Fill the Sukanya Samriddhi account opening form",
+      "Submit documents and make the first deposit"
+    ],
+    "officialWebsite": "https://www.indiapost.gov.in",
+    "lastUpdated": "Please verify on the official website"
+  },
+  {
+    "icon": "🔥",
+    "name": "PM Ujjwala Yojana",
+    "category": "Women / Energy",
+    "shortInfo": "Deposit-free LPG connection for women from poor households.",
+    "about": "Pradhan Mantri Ujjwala Yojana provides clean cooking fuel (LPG) connections to women from poor households.",
+    "benefits": [
+      "Deposit-free LPG connection",
+      "Clean cooking fuel instead of wood or coal",
+      "Better health for women and children"
+    ],
+    "eligibility": [
+      "Adult woman (18+) from a poor household",
+      "No existing LPG connection in the same household",
+      "Belongs to an eligible category (e.g. SC/ST, PMAY-G, AAY or poor household)"
+    ],
+    "documents": [
+      "Aadhaar card of the applicant",
+      "Ration card",
+      "Bank account details",
+      "Address proof"
+    ],
+    "howToApply": [
+      "Apply on the official PMUY website or at the nearest LPG distributor",
+      "Fill the KYC form and submit documents",
+      "Get the connection after verification"
+    ],
+    "officialWebsite": "https://pmuy.gov.in",
+    "lastUpdated": "Please verify on the official website"
+  },
+  {
+    "icon": "👴",
+    "name": "Atal Pension Yojana",
+    "category": "Pension",
+    "shortInfo": "Guaranteed monthly pension of ₹1,000–₹5,000 after age 60.",
+    "about": "Atal Pension Yojana is a government-backed pension scheme, mainly for workers in the unorganised sector.",
+    "benefits": [
+      "Guaranteed pension of ₹1,000 to ₹5,000 per month after 60",
+      "Same pension to spouse after the subscriber's death",
+      "Pension wealth returned to the nominee"
+    ],
+    "eligibility": [
+      "Indian citizen aged 18 to 40 years",
+      "Must have a savings bank or post office account",
+      "Income tax payers are not eligible"
+    ],
+    "documents": [
+      "Savings bank / post office account",
+      "Aadhaar card",
+      "Mobile number"
+    ],
+    "howToApply": [
+      "Visit the bank or post office where you have a savings account",
+      "Fill the APY registration form (or use net banking)",
+      "Choose your pension amount",
+      "Contribution is auto-debited from your account"
+    ],
+    "officialWebsite": "https://www.pfrda.org.in",
+    "lastUpdated": "Please verify on the official website"
+  }
+]
