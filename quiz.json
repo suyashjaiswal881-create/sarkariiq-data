@@ -1,0 +1,32 @@
+[
+  {
+    "question": "Gandhi Jayanti is celebrated on which date?",
+    "options": ["15 August", "2 October", "26 January", "14 November"],
+    "answerIndex": 1,
+    "explanation": "Mahatma Gandhi was born on 2 October 1869."
+  },
+  {
+    "question": "The Constitution of India came into force on:",
+    "options": ["15 August 1947", "26 November 1949", "26 January 1950", "2 October 1950"],
+    "answerIndex": 2,
+    "explanation": "That is why 26 January is celebrated as Republic Day."
+  },
+  {
+    "question": "Fundamental Rights are given in which Part of the Indian Constitution?",
+    "options": ["Part II", "Part III", "Part IV", "Part V"],
+    "answerIndex": 1,
+    "explanation": "Part III (Articles 12 to 35) deals with Fundamental Rights."
+  },
+  {
+    "question": "What is 15% of 200?",
+    "options": ["20", "25", "30", "35"],
+    "answerIndex": 2,
+    "explanation": "15/100 × 200 = 30."
+  },
+  {
+    "question": "Find the next number: 2, 6, 12, 20, ?",
+    "options": ["28", "30", "32", "36"],
+    "answerIndex": 1,
+    "explanation": "The gap increases by 2 each time: +4, +6, +8, +10. So 20 + 10 = 30."
+  }
+]
