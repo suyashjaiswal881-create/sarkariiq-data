@@ -1,0 +1,32 @@
+[
+  {
+    "title": "NCERT Textbooks (Class 1–12)",
+    "category": "Books",
+    "source": "NCERT (Official)",
+    "url": "https://ncert.nic.in/textbook.php"
+  },
+  {
+    "title": "Constitution of India",
+    "category": "Books",
+    "source": "Legislative Department (Official)",
+    "url": "https://legislative.gov.in/constitution-of-india/"
+  },
+  {
+    "title": "UPSC Previous Year Question Papers",
+    "category": "Previous Papers",
+    "source": "UPSC (Official)",
+    "url": "https://upsc.gov.in/examinations/previous-question-papers"
+  },
+  {
+    "title": "SSC Syllabus & Notices",
+    "category": "Syllabus",
+    "source": "SSC (Official)",
+    "url": "https://ssc.gov.in"
+  },
+  {
+    "title": "IBPS Notifications & Syllabus",
+    "category": "Syllabus",
+    "source": "IBPS (Official)",
+    "url": "https://www.ibps.in"
+  }
+]
