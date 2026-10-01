@@ -1,0 +1,20 @@
+[
+  {
+    "title": "SWAYAM – Free Online Courses",
+    "category": "Free Platforms",
+    "description": "Government of India's free online course platform for many subjects.",
+    "url": "https://swayam.gov.in"
+  },
+  {
+    "title": "DIKSHA – Learning Platform",
+    "category": "Free Platforms",
+    "description": "Free learning content from the Ministry of Education.",
+    "url": "https://diksha.gov.in"
+  },
+  {
+    "title": "e-Pathshala – NCERT Digital Content",
+    "category": "School Basics",
+    "description": "NCERT e-books, audio and video content for building basics.",
+    "url": "https://epathshala.nic.in"
+  }
+]
